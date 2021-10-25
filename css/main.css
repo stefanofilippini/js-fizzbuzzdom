@@ -1,3 +1,4 @@
+/* GENERALS */
 body {
     background-color: royalblue;
     font-family: sans-serif;
@@ -8,6 +9,7 @@ body {
     margin: 0 auto;
 }
 
+/* UTILITIES AND BOXES COLORS */
 h1 {
     text-align: center;
     color: white;
